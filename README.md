@@ -1,2 +1,3 @@
 # Calculator API
-Start the project by running this command: php artisan serve
+Install needed dependencies by running command: <b>composer install</b><br/>
+Start the project by running this command: <b>php artisan serve</b>
